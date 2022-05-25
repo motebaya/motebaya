@@ -1,7 +1,7 @@
 ### welcome 👋
-<img width="110" height="110" src="https://i.ibb.co/3YwMkDm/20220524-201429.png" alt="valsztrax-avatar" border="0">     ![](https://komarev.com/ghpvc/?username=valsztrax&color=lightgray)
+<img width="110" height="110" src="https://i.ibb.co/PgX75yx/20220525-171522.png" alt="valsztrax-avatar" border="50">     ![](https://komarev.com/ghpvc/?username=valsztrax&color=lightgray)
 
-I only understand a litle knowledge in shell script and other maybe:)
+𝙸 𝚘𝚗𝚕𝚢 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍 𝚊 𝚕𝚒𝚝𝚕𝚎 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚒𝚗 𝚜𝚑𝚎𝚕𝚕 𝚜𝚌𝚛𝚒𝚙𝚝 𝚊𝚗𝚍 𝚘𝚝𝚑𝚎𝚛 𝚖𝚊𝚢𝚋𝚎:)
 
 ![valsztrax's github stats](https://github-readme-stats.vercel.app/api?username=valsztrax&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valsztrax&layout=compact)](https://github.com/valsztrax)
