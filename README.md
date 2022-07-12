@@ -3,5 +3,7 @@
 
 𝙸 𝚘𝚗𝚕𝚢 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍 𝚊 𝚕𝚒𝚝𝚕𝚎 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚒𝚗 𝚜𝚑𝚎𝚕𝚕 𝚜𝚌𝚛𝚒𝚙𝚝 𝚊𝚗𝚍 𝚘𝚝𝚑𝚎𝚛 𝚖𝚊𝚢𝚋𝚎:)
 
-![motebaya's github stats](https://github-readme-stats.vercel.app/api?username=motebaya&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motebaya&layout=compact)](https://github.com/motebaya)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=motebaya&show_icons=true&theme=default&layout=compact" align="center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motebaya&layout=compact" align="center"/>
+</p> 
