@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=motebaya&color=lightgray)
-
+![visitors](https://komarev.com/ghpvc/?username=motebaya&color=lightgray)
+[![Telegram](https://badgen.net/badge/Telegram/L%20Mochino/blue?icon=telegram)](https://t.me/dvinchii)
 
 <p align="center">
 <img height="110em" src="https://github-readme-stats.vercel.app/api?username=motebaya&show_icons=true&theme=default&layout=compact" align="center"/>
@@ -11,3 +11,4 @@
  + Interested with python, ruby and bash
 
 
+#### Skill sets:
