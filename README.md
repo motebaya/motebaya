@@ -7,7 +7,7 @@
 </p> 
 
 ### Welcome to my profile 👋!
- + Hello , I'am daviana.. just call me davin.
+ + Hello , I'am daviana.. just call me davins.
  + Interested with python, ruby, javascript (node) and bash
 
 
