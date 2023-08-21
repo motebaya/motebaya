@@ -1,13 +1,17 @@
-![visitors](https://komarev.com/ghpvc/?username=motebaya&color=lightgray)
-[![Telegram](https://badgen.net/badge/Telegram/L%20Mochino/blue?icon=telegram)](https://t.me/dvinchii)
+![:name](https://count.getloli.com/get/@:motebaya)
 
 <p float="left">
 <img height="110em" src="https://github-readme-stats.vercel.app/api?username=motebaya&show_icons=true&theme=radical&layout=compact"/>
 <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motebaya&layout=compact&theme=radical&custom_title=Languange" />
 </p>
 
+![line](line.gif)
+
 ### Hei, Hei 👋!
- + Hello , I'am daviana.. just call me davins.
+
+<img src='xu.gif' alt='xu' width=200 height=200/>
+   
+ + Hello , I'am daviana (nickname)...
  + Interested with python, ruby, JS, bash and others...
 
 #### interested:
@@ -24,3 +28,6 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+#### Contact:
+[![Telegram](https://badgen.net/badge/Telegram/L%20Mochino/blue?icon=telegram)](https://t.me/dvinchii)
