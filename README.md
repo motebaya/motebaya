@@ -9,9 +9,9 @@
 
 ### Hei, Hei 👋!
 
-<img src='xu.gif' alt='xu' width=200 height=200/>
+<img src='xu.gif' alt='xu' width=150 height=150/>
    
- + Hello , I'am daviana (nickname)...
+ + Hello , I'am daviana (nm)...
  + Interested with python, ruby, JS, bash and others...
 
 #### interested:
