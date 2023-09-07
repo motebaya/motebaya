@@ -31,4 +31,4 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 #### Contact:
-[![Telegram](https://badgen.net/badge/Telegram/L%20Mochino/blue?icon=telegram)](https://t.me/dvinchii)
+[![Telegram](https://badgen.net/badge/Telegram/Mochino/blue?icon=telegram)](https://t.me/dvinchii)
