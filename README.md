@@ -13,7 +13,7 @@
 
 - 😄 Hi, i'm daviana (nickname).
 - 🌱 I’m currently learning several framework, such as [ExpressJS](https://expressjs.com/), [Laravel](https://laravel.com/), and etc.
-- ⚡ Fun fact: I am only interested in programming languages to fill my leisure time after finishing work in the evenings, you won't find large projects with hundreds or dozens of contributors on my profile :<.
+- ⚡ I am only interested in programming languages to fill my leisure time after finishing work in the evenings, you won't find large projects with hundreds or dozens of contributors on my profile :3.
 
 #### Lang:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
