@@ -5,11 +5,8 @@
 <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motebaya&layout=compact&theme=radical&custom_title=Languange" />
 </p>
 
-![line](line.gif)
-
 ### Hei, Hei 👋!
 
-<img src='xu.gif' alt='xu' width=150 height=150/>
 
 - 😄 Hi, i'm daviana (nickname).
 - 🌱 I’m currently learning several framework, such as [ExpressJS](https://expressjs.com/), [Laravel](https://laravel.com/), and etc.
