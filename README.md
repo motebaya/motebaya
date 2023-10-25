@@ -8,7 +8,7 @@
 ### Hei, Hei 👋!
 
 
-- 😄 Hi, i'm daviana (nickname).
+- 😄 Hi, i'm davins (nickname).
 - 🌱 I’m currently learning several framework, such as [ExpressJS](https://expressjs.com/), [Laravel](https://laravel.com/), and etc.
 - ⚡ I am only interested in programming languages to fill my leisure time after finishing work in the evenings, you won't find large projects with hundreds or dozens of contributors on my profile :3.
 
