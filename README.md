@@ -5,7 +5,7 @@
 <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motebaya&layout=compact&theme=radical&custom_title=Languange" />
 </p>
 
-### Hei, Hei 👋!
+### Hei, Hei 👋!.
 
 <pre>
 - &#128168 Hey, I'm davins &#128075.
