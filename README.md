@@ -7,13 +7,17 @@
 
 ### Hei, Hei 👋!
 
+<pre>
+- &#128168 Hey, I'm davins &#128075.
+    i'm currently leanring several framework such as <a href="https://expressjs.com/">express.js</a>, <a href="https://laravel.com/">php laravel</a>, <a href="https://vuejs.org/">Vue.js</a> and etc.
 
-- 😄 Hi, i'm davins (nickname).
-- 🌱 I’m currently learning several framework, such as [ExpressJS](https://expressjs.com/), [Laravel](https://laravel.com/), and etc.
-- ⚡ I am only interested in programming languages to fill my leisure time after finishing work in the evenings, you won't find large projects with hundreds or dozens of contributors on my profile :3.
+    i just working with code as hobbies and sometime as part time (freelance) to fill my leisure time after finishing my jobs in the evenings/night.
+    you won't find large projects with hundreds or dozens of contributors on my profile :3.
+</pre>
 
 #### Lang:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -21,6 +25,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 #### OS:
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
@@ -28,4 +33,5 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 #### Contact:
+
 [![Telegram](https://badgen.net/badge/Telegram/Mochino/blue?icon=telegram)](https://t.me/dvinchii)
