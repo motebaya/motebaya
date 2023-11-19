@@ -7,7 +7,7 @@
 
 ### Hei, Hei 👋!.
 
-<pre>
+<pre style="overflow-wrap: break-word; white-space: pre-wrap;">
 - &#128168 Hey, I'm davins &#128075.
     i'm currently leanring several framework such as <a href="https://expressjs.com/">express.js</a>, <a href="https://laravel.com/">php laravel</a>, <a href="https://vuejs.org/">Vue.js</a> and etc.
 
