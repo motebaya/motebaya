@@ -7,13 +7,9 @@
 
 ### Hei, Hei 👋!.
 
-<pre style="overflow-x: hidden !important; white-space: pre-wrap !important;">
-- &#128168 Hey, I'm davins &#128075.
-    i'm currently leanring several framework such as <a href="https://expressjs.com/">express.js</a>, <a href="https://laravel.com/">php laravel</a>, <a href="https://vuejs.org/">Vue.js</a> and etc.
-
-    i just working with code as hobbies and sometime as part time (freelance) to fill my leisure time after finishing my jobs in the evenings/night.
-    you won't find large projects with hundreds or dozens of contributors on my profile :3.
-</pre>
+:dash: I'm davins :wave:, i'm currently leanring several framework such as [express.js](https://expressjs.com), [php laravel](https://laravel.com/), [Vue.js](https://vuejs.org/) and etc.
+i just working with code as hobbies and sometime as part time (freelance) to fill my leisure time after finishing my jobs in the evenings/night.
+you won't find large projects with hundreds or dozens of contributors on my profile :3.
 
 #### Lang:
 
