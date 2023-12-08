@@ -7,9 +7,9 @@
 
 ### Hei, Hei 👋!.
 
-:dash: I'm davins :wave:, i'm currently learning several framework such as [Next.js](https://nextjs.org/), [php laravel](https://laravel.com/), [Vue.js](https://vuejs.org/) and etc.
+:dash: I'm davins :wave:, i'm currently learning several Js lib/fw such as [Next.js](https://nextjs.org/), [React.js](https://react.dev/), [Vue.js](https://vuejs.org/) and etc.
 i just working with code as hobbies and sometime as part time (freelance) to fill my leisure time after finishing my jobs in the evenings/night.
-you won't find large projects with hundreds or dozens of contributors on my profile :3.
+you won't find large projects with hundreds or dozens of contributors on my profile :).
 
 
 #### Lang:
