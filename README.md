@@ -5,11 +5,10 @@
 <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motebaya&layout=compact&theme=radical&custom_title=Languange" />
 </p>
 
-### Hei, Hei 👋!.
+### Hei, Hei :wave:!.
 
-:dash: I'm davins :wave:, i'm currently learning several Js lib/fw such as [Next.js](https://nextjs.org/), [React.js](https://react.dev/), [Vue.js](https://vuejs.org/) and etc.
-i just working with code as hobbies and sometime as part time (freelance) to fill my leisure time after finishing my jobs in the evenings/night.
-you won't find large projects with hundreds or dozens of contributors on my profile :)...
+:dash: I'm davins :wave:, i just working with code as hobbies and as part time (freelancer) to fill my leisure time after finishing my main jobs in the evenings/night. currently learning several popular framework/lib and anything what i think i need 🐃.
+you won't find large projects with hundreds or dozens of contributors on my profile. 🐄
 
 
 #### Lang:
@@ -30,5 +29,4 @@ you won't find large projects with hundreds or dozens of contributors on my prof
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 #### Contact:
-
 [![Telegram](https://badgen.net/badge/Telegram/Mochino/blue?icon=telegram)](https://t.me/dvinchii)
